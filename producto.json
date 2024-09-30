@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sombrilla",
+    "tipo": "local",
+    "precio": 50.0
+  },
+  {
+    "id": 2,
+    "nombre": "Taza",
+    "tipo": "importado",
+    "precio": 30.0
+  },
+  {
+    "id": 3,
+    "nombre": "Bolígrafo",
+    "tipo": "local",
+    "precio": 10.0
+  },
+  {
+    "id": 4,
+    "nombre": "Camisa con logo",
+    "tipo": "importado",
+    "precio": 80.0
+  },
+  {
+    "id": 5,
+    "nombre": "Par
